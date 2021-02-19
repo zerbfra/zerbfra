@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 🇮🇹 I am a freelance consultant based in Milan 
+
 😎 Working remotely
+
 💬 Come say hi on Twitter @zerbfra.
+
 🧰 I work with NodeJS, React and Salesforce
+
 🍕 I make [Pizza](https://i.ibb.co/KyfWLNH/Screenshot-2021-02-19-at-13-54-16.jpg)!
 
 <!--
